@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://http2.mlstatic.com/painel-papel-parede-adesivo-cidades-cachoeira-praia-natureza-D_NQ_NP_732015-MLB25128844750_102016-F.jpg');
+    font-family: arial;
+    background-size: auto 222vh;
+    height: 150vh;
+  }
+  
+  .menu{
+    background-color: whitesmoke;
+  }
+  
+  .menu ul {
+    display:flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style:none;
+  }
+  
+  a {
+    color:teal;
+    text-decoration:none;
+  }
+  
+  a:hover{
+    text-decoration:underline;
+  }
+  
+  .site-subtittle,
+  .site-tittle {
+    color:purple;
+    text-align:center;
+  }
+  
+  .site-subtittle {
+    font-style: italic;
+  }
